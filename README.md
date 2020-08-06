@@ -7,4 +7,6 @@ Implement in java the following algorithms:
 5. Display all the prime numbers lower than a given number
 
 
+
+
 Validation Criteria:  Respecting naming conventions  Code compiles Main class and algorithm classes seperated Code archived as ZIP and uploaded to Moodle Only .java NEEDs to be included in zip file
